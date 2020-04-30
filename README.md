@@ -1,2 +1,2 @@
 # Vizassist
-An android app to help people
+An android app to help blind read English on pictures
